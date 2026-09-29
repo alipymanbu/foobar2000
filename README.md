@@ -1,70 +1,26 @@
+# foobar2000
 
-> [!IMPORTANT]  
-> This project is no longer maintained. I've moved on to make [rox](https://github.com/zealsprince/rox) as a standalone project
-> if you want a modern native player that comes with the promise of all the same bells and whistles as CaTRoX, NekoRoX and AlphaRoX.
+本仓库是「foobar2000」的安卓版本获取入口，附使用资料索引。
 
-# NekoRoX Foobar2000 Theme #
+## 安装文件资源（夸克网盘）
 
-![](https://github.com/catlinman/foobar2000/blob/master/preview.png)
+> **foobar2000 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/82ada347c88c](https://pan.quark.cn/s/82ada347c88c)
 
-_**The ultimate Foobar2000 theme to get you started.**_
+## 官方项目
 
-NekoRoX is a fork of CaTRoX that includes a lot of custom
-panels, plugins and quality of life modules.
+- 上游项目：[catlinman/foobar2000](https://github.com/catlinman/foobar2000)
 
-*What's included?*
+## 更多资料
 
-- Clean and dark interface with neko-stylings.
-- Easy navigation and rearrangement of panels.
-- Tree and filter based navigation.
-- Mini and micro player modes.
-- Always on top functionality.
-- Simple rating and number of plays view.
-- Searching and playing of YouTube video audio.
-- Cover art viewer and cover flow panel.
-- Real time synced lyric viewer panel.
-- Visualization and amplitude seek-bar.
-- Discord rich presence integration.
-- Live biography lookup panel for tracks and artists.
-- Last.fm integration and simple tools.
-- **It works right out of the box.**
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/foobar2000/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [均衡器与DSP音效设置](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/foobar2000/%E5%9D%87%E8%A1%A1%E5%99%A8%E4%B8%8EDSP%E9%9F%B3%E6%95%88%E8%AE%BE%E7%BD%AE.md)
+- [媒体库扫描与标签整理](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/foobar2000/%E5%AA%92%E4%BD%93%E5%BA%93%E6%89%AB%E6%8F%8F%E4%B8%8E%E6%A0%87%E7%AD%BE%E6%95%B4%E7%90%86.md)
+- [局域网播放与网络电台](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/foobar2000/%E5%B1%80%E5%9F%9F%E7%BD%91%E6%92%AD%E6%94%BE%E4%B8%8E%E7%BD%91%E7%BB%9C%E7%94%B5%E5%8F%B0.md)
+- [常见问题与故障排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/foobar2000/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5.md)
+- [支持哪些音频格式](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/foobar2000/%E6%94%AF%E6%8C%81%E5%93%AA%E4%BA%9B%E9%9F%B3%E9%A2%91%E6%A0%BC%E5%BC%8F.md)
+- [电脑传歌到手机的方法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/foobar2000/%E7%94%B5%E8%84%91%E4%BC%A0%E6%AD%8C%E5%88%B0%E6%89%8B%E6%9C%BA%E7%9A%84%E6%96%B9%E6%B3%95.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-## White Theme (AlphaRoX)
+---
 
-Looking for a white/light theme alternative? Check out my new account's (@zealsprince) [AlphaRoX](https://github.com/zealsprince/foobar2000) fork!
-
-![](https://github.com/zealsprince/foobar2000/blob/master/preview.png)
-
-## Installation ##
-
-If at any point you make changes to the interface and wish to reset: There's
-an included layout file in the theme directory called *NekoRoX.fcl* which you
-can load via *ColumnsUI* to reset everything to the way it was intended.
-
-Once you have completed the steps further below, make sure to install the fonts
-included in the *fonts* directory.
-
-### Standard ###
-
-If you have the standard non-portable version of Foobar2000 installed: make
-sure to copy the *smoothbrowser*, *configuration* and *user-components*
-folders to your application data directory located at *%appdata%/foobar2000*.
-
-Additionally, copy the *themes* directory to your root Foobar2000 installation directory.
-
-### Portable ###
-
-With the portable installation simply copy all the files in this directory to
-you root Foobar2000 installation directory.
-
-## License ##
-
-I did not create nor do I own any of the plugins and scripts included in this
-setup. For the respective creators please view the comments and descriptions of
-the plugins and scripts included.
-
-This is a heavily modified fork of the CaTRoX theme by eXtremeHunter1972. I
-take no credit for any of the underlying original code and styling. Credit for
-that goes entirely to the original creator.
-
-Furthermore, the newest version implements a lot of [TheQwertiest](https://github.com/TheQwertiest) work with his [CaTRoX branch](https://github.com/TheQwertiest/CaTRoX_QWR/). I've merged a plethora of his code into my version of the theme to make what is hopefully the most elaborate and straight forward setup so far.
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/catlinman/foobar2000)。
